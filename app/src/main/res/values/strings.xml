@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hw_6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create">Create</string>
+    <string name="todo">TODO</string>
+    <string name="description">description\n</string>
+    <string name="select_time">select_time\n</string>
+</resources>
